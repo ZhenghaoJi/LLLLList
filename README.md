@@ -2,7 +2,7 @@
 ## Tours
 + Nanjing tour (Waiting)
 
-+ isney tour (20,Oct-10,Nov)
++ Disney tour (20,Oct-10,Nov)
 
 + Yangzhou （TOEFL)
 
