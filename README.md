@@ -1,8 +1,8 @@
 # This is a TO-DO list with cxy!
 ## Tours
->+Nanjing tour (Waiting)
++Nanjing tour (Waiting)
 
->+Disney tour (20,Oct-10,Nov)
++Disney tour (20,Oct-10,Nov)
 
 >+Yangzhou （TOEFL)
 
