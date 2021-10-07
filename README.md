@@ -1,4 +1,4 @@
-# This is a TO-DO list with cxy!
+# This is a TO-DO list with MyGirl!
 ## Tours
 + Nanjing tour (Waiting)
 
@@ -50,7 +50,9 @@
     - [x] 阿莉餐厅 **我的生日**
     - [x] 烧烤店 冰粉还行 烧烤太咸了
     - [x] 海底捞 没吃到捞面
-    - [x] 超好吃的拌面 （番茄鸡蛋和麻酱）
+    - [x] 我做的超好吃的拌面 （番茄鸡蛋和麻酱）
+    - [x] 我做的糖醋排骨
+    - [x] **邻里人家** 干烧鲈鱼和牛蛙
 - [ ] 娱乐
     - [x] 桌游
     - [x] 阿莉餐厅
